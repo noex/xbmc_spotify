@@ -36,3 +36,6 @@ nosetests.xml
 
 # Cookies
 gmusic_cookies.txt
+
+#idea
+*.iml
